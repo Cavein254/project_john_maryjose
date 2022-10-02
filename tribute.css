@@ -1,0 +1,40 @@
+body {
+    margin: 2.3em;
+  }
+  .container {
+  }
+  .heading {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .img-text {
+    font-size: 0.85rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .mid-header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  main {
+    padding: 0 12em;
+  }
+  ul > li {
+    padding-bottom: 1.2em;
+  }
+  .date {
+    font-weight: bold;
+  }
+  .tribute {
+    padding-left: 1.2em;
+    font-style: italic;
+  }
+  footer > h4 {
+    font-weight: bold;
+  }
